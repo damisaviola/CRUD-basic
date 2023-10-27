@@ -1,14 +1,18 @@
+![Logo PHP](https://example.com/php-logo.png)
+![Logo MySQL](https://example.com/mysql-logo.png)
+![Logo XAMPP](https://example.com/xampp-logo.png)
+
 # Aplikasi CRUD PHP
 
 Ini adalah contoh aplikasi CRUD (Create, Read, Update, Delete) sederhana menggunakan PHP dan MySQL. Aplikasi ini memungkinkan Anda untuk melakukan operasi dasar pada entitas dalam database, seperti menambahkan data baru, membaca data yang ada, mengedit data, dan menghapus data.
 
 ## Fitur-Fitur
 
-Aplikasi ini memiliki fitur-fitur berikut:
+Garis besar CRUD memiliki fitur-fitur berikut:
 
-- **Tambah Data**: Anda dapat menambahkan entitas baru ke database dengan mengisi formulir yang sesuai.
-- **Tampilan Data**: Anda dapat melihat daftar entitas yang ada dalam tabel dengan tombol "Lihat Data".
-- **Edit Data**: Anda dapat mengedit data yang ada dengan mengklik tombol "Edit" pada setiap baris entitas.
+- **Tambah Data**: dapat menambahkan entitas baru ke database dengan mengisi formulir yang sesuai.
+- **Tampilan Data**: dapat melihat daftar entitas yang ada dalam tabel dengan tombol "Lihat Data".
+- **Edit Data**: mengedit data yang ada dengan mengklik tombol "Edit" pada setiap baris entitas.
 - **Hapus Data**: Anda dapat menghapus entitas dengan mengklik tombol "Hapus" pada setiap baris entitas.
 
 ## Persyaratan
@@ -30,4 +34,4 @@ Kami selalu menyambut kontribusi. Jika Anda ingin memperbaiki bug, menambahkan f
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
