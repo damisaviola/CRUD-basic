@@ -31,8 +31,7 @@ Garis besar CRUD memiliki fitur-fitur berikut:
 
 ## Kontribusi
 
-Kami selalu menyambut kontribusi. Jika Anda ingin memperbaiki bug, menambahkan fitur baru, atau membuat perbaikan lainnya, Anda dapat melakukan fork repositori ini, membuat perubahan, dan mengirimkan pull request.
+Damianus Saviola Maturbongs 22.12.2274
 
-## Lisensi
 
 
