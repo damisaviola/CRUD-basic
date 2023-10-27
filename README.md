@@ -1,6 +1,7 @@
-![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)
-![Logo MySQL](https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png)
-![Logo XAMPP](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" width="300" alt="Logo PHP">
+<img src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" width="300" alt="Logo MySQL">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="300" alt="Logo XAMPP">
+
 
 # Aplikasi CRUD PHP
 
