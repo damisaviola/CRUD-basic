@@ -13,8 +13,8 @@ Garis besar CRUD memiliki fitur-fitur berikut:
 
 - **Tambah Data**: dapat menambahkan entitas baru ke database dengan mengisi formulir yang sesuai.
 - **Tampilan Data**: dapat melihat daftar entitas yang ada dalam tabel dengan tombol "Lihat Data".
-- **Edit Data**: mengedit data yang ada dengan mengklik tombol "Edit" pada setiap baris entitas.
-- **Hapus Data**: Anda dapat menghapus entitas dengan mengklik tombol "Hapus" pada setiap baris entitas.
+- **Edit Data**: dapat mengedit data yang ada dengan mengklik tombol "Edit" pada setiap baris entitas.
+- **Hapus Data**: dapat menghapus entitas dengan mengklik tombol "Hapus" pada setiap baris entitas.
 
 ## Persyaratan
 
