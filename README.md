@@ -3,7 +3,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Xampp_logo.svg/2560px-Xampp_logo.svg.png" width="300" alt="Logo XAMPP">
 
 
-# Aplikasi CRUD PHP
+# Aplikasi CRUD PHP Native
 
 Ini adalah contoh aplikasi CRUD (Create, Read, Update, Delete) sederhana menggunakan PHP dan MySQL. Aplikasi ini memungkinkan Anda untuk melakukan operasi dasar pada entitas dalam database, seperti menambahkan data baru, membaca data yang ada, mengedit data, dan menghapus data.
 
